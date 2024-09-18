@@ -23,7 +23,7 @@ Instalação
 Clone este repositório:
 
 Copiar código
-```git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git```
+```git clone https://github.com/Killuadevz/Simple-Pass-Gen/tree/main.git```
 Abra o arquivo index.html no seu navegador para utilizar o gerador de senhas.
 
 Personalização
