@@ -13,18 +13,4 @@ Escolha as Características da Senha: Selecione os tipos de caracteres que desej
 Ajuste o Comprimento: Use o controle deslizante para definir o número de caracteres da senha.
 Gere a Senha: Clique no botão "Gerar Senha" para criar uma senha com as configurações escolhidas.
 Copiar a Senha: Use o botão de cópia ao lado do campo de senha para copiá-la para a área de transferência.
-Requisitos
-Navegador moderno (Chrome, Firefox, Edge, etc.).
-Tecnologias Utilizadas
-HTML: Para a estrutura da página.
-CSS: Para estilização e layout.
-JavaScript: Para a lógica de geração de senhas e interatividade.
-Instalação
-Clone este repositório:
 
-Copiar código
-```git clone https://github.com/Killuadevz/Simple-Pass-Gen/tree/main.git```
-Abra o arquivo index.html no seu navegador para utilizar o gerador de senhas.
-
-Personalização
-Você pode modificar o código JavaScript para alterar a lógica de geração de senhas conforme necessário. As opções para incluir letras, números e símbolos são facilmente ajustáveis no código.
