@@ -12,5 +12,5 @@ Como Usar
 Escolha as Características da Senha: Selecione os tipos de caracteres que deseja incluir na senha (letras maiúsculas, letras minúsculas, números e/ou símbolos).
 Ajuste o Comprimento: Use o controle deslizante para definir o número de caracteres da senha.
 Gere a Senha: Clique no botão "Gerar Senha" para criar uma senha com as configurações escolhidas.
-Copiar a Senha: Use o botão de cópia ao lado do campo de senha para copiá-la para a área de transferência.
+Copiar a Senha: Use o botão de cópia ao lado do campo de senha para copiá-la para a área de transferência
 
